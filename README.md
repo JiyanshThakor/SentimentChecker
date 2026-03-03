@@ -1,0 +1,2 @@
+# SentimentChecker
+SentimentChecker homemade
